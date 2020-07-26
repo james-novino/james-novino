@@ -1,3 +1,4 @@
+
 ### Hi there, I'm James 👋
 
 ![](https://komarev.com/ghpvc/?username=james-novino&color=blue&style=flat-square)
@@ -12,7 +13,7 @@ Hi, I'm James Novino, a passionate full-stack engineer in the New York metro are
 - 👨🏽‍💻 I’m currently working at [Capsule](https://www.capsule.com);
 - 🌱 I’m currently learning GraphQL and Haskell; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: james.novino@gmail.com;
+- 📫 How to reach me: <james.novino@gmail.com>;
 
 ## Languages 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png"></code>
@@ -33,6 +34,8 @@ Hi, I'm James Novino, a passionate full-stack engineer in the New York metro are
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=james-novino&show_icons=true&count_private=true)
 
