@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 Hi, I'm James Novino, a passionate full-stack engineer in the New York metro area.
 
-- 👨🏽‍💻 I’m currently working at [Capsule](https://www.capsule.com);
+- 👨🏽‍💻 I’m currently working at <Stealth Startup>;
 - 🌱 I’m currently learning GraphQL and Haskell; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <james.novino@gmail.com>;
